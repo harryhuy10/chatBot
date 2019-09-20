@@ -1,4 +1,5 @@
 'use strict';
+const APP_SECRET = 'you app_secret';
 let express = require('express'),
     bodyParser = require('body-parser'),
     app = express(),
