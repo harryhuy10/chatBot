@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "secret": 'mticket@2016',
   "scripts": {
     "build": "pm2 start index.js"
   },
